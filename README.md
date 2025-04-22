@@ -1,19 +1,12 @@
-# 🛒Finn-scraper
+# 🛒Finn-scraper for real estate
 
-A scraping tool for Finn.no.
-
-## Result
-
-A search for 'air pods' in Oslo, sorted on price.
-
-![Image](https://i.imgur.com/r8fPXKH.png)
-
-## Running the scraper
-
-Make sure to configure your scrape in the function call.
-Have a look at `constants.mjs` to get familiar with them.
-
-```zsh
-$ yarn install # Install dependencies
-$ yarn start # Run the scraper
-```
+### Plans:
+Will mainly use it for finding an apartment.
+Continue development by adding:
+<ul>
+  <li>🔄 Backend in Python, and make a frontend using React</li>
+  <li>📊 Charts and databases</li>
+  <li>🗺️ A map for displaying where the apartments are located</li>
+  <li>✅ Web interface that is easy to use and powerful</li>
+  <li>🔮 Eventually make it possible to use the program for more than apartments</li>
+</ul>
