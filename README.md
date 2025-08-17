@@ -1,5 +1,7 @@
 # 🛒Finn-scraper for real estate
 
+# I will not continue this project, as it violates finn.no's robots.txt.
+
 ### Plans:
 Will mainly use it for finding an apartment.
 Continue development by adding:
